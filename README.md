@@ -6,6 +6,11 @@ React, Redux, Material UI
 
 Others worth noting: Babel, Webpack, Moment, React Router Dom, Masonry, Chartjs, Redux-Persist
 
+## To Use
+- clone repo
+- npm install
+- npm run
+
 ## Current Features
 - CRUD notes
 - On load, cursor auto focus on create note title input

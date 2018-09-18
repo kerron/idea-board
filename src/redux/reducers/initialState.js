@@ -1,7 +1,7 @@
 export default {
     isLoading: false,
     showSavedNotification: false,
-    sortCardsBy: 'updated',
+    sortCardsBy: '',
     noteData: [],
     labels: [
         {
