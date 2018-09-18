@@ -16,7 +16,6 @@ Others worth noting: Babel, Webpack, Moment, React Router Dom, Masonry, Chartjs,
 - On load, cursor auto focus on create note title input
 - Order based 3 Filters
 - CRUD labels for notes
-- Filter based on labels
 - Info on date created and last edited
 - View Profile
 - View Idea board progression (Chartjs)
@@ -25,8 +24,9 @@ Others worth noting: Babel, Webpack, Moment, React Router Dom, Masonry, Chartjs,
 (hover over edited date to get created)
 
 ## Next plans
-- separate css style used for Material UI components
-- remove duplicate labels
+- Separate css style used for Material UI components
+- Remove duplicate labels
+- Filter based on labels
 - Add Firebase integration to store notes and user auth
 - Ability to filter by custom labels
 - Share notes
